@@ -1,5 +1,4 @@
 # ScrollableGraphView
-
 ## Announcements
 
 ### 9-7-2017 - Version 4: 
