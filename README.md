@@ -1,6 +1,5 @@
 # ScrollableGraphView
 ## Announcements
-
 ### 9-7-2017 - Version 4: 
 
 Version 4 was released which adds multiple plots, dynamic reloading of values, more reference line customisation options and various bug fixes. 
